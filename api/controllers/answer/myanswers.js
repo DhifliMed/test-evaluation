@@ -51,7 +51,7 @@ module.exports = {
         return answer
       }))
       return exits.success({
-        message:"Answer created",
+        message:"My answers",
         data: resultAnswers
       })
 
@@ -61,7 +61,7 @@ module.exports = {
         message:"An unknown error occured please retry",
         error: error.message,
       });
-      
+
     }
 
   }

@@ -15,8 +15,8 @@ on the second level, I used also jsonwebtoken@8.5.1 library for javascript
 ## Directory Architecture
 The project is devided into three main sections
 - Auth
-- Servey 
-- answer
+- Survey
+- Answer
 
 ### Install
 the dependencies of this project are written in package.json
